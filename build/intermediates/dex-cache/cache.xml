@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/simrandeep/AndroidStudioProjects/TaskManager/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/home/simrandeep/AndroidStudioProjects/TaskManager/app/build/intermediates/pre-dexed/debug/commons-io-2.4-cbc573a8602710a74867834293f85b7165467f36.jar" />
+    </item>
+
+</items>
